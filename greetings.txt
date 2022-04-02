@@ -2,3 +2,4 @@
 -hello
 -ni hao
 Hello
+Konichiwa
