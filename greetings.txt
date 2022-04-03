@@ -1,5 +1,5 @@
 -hola
 -hello
--ni hao
-Hello
+-ni hao cambio
 Konichiwa
+Bonjour
